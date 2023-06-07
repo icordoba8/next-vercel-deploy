@@ -1,9 +1,9 @@
 import { MainLayout } from "@/components/layouts/MainLayout";
 
-export default function HomePage() {
+export default function About() {
   return (
-    <MainLayout title="Home">
-      <p>Home</p>
+    <MainLayout title="About">
+      <p>About</p>
     </MainLayout>
   );
 }
